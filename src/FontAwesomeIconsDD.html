@@ -1,0 +1,5 @@
+﻿<div ng-controller="FontAwesomeIconsDD.controller" ng-model="model.value">
+	<select ng-model="model.value" style="font-family: 'FontAwesome', 'Helvetica';">
+        <option ng-selected="item.value==model.value" ng-repeat="item in items" ng-bind-html="item.label" value="{{item.value}}" style="width:20px;">{{item.label}}</option>
+    </select>
+</div>
