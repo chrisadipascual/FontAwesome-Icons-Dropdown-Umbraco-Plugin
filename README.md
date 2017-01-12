@@ -3,4 +3,5 @@ FontAwesome Icons Dropdown Datatype. Labels are unicode while the values are cla
 
 #Like the plugin? 
 Any amount is appreciated. Money goes to noodle funds <3
+
 paypal.me/chrispascual
