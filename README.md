@@ -2,6 +2,10 @@
 FontAwesome Icons Dropdown Datatype. Labels are unicode while the values are class name.
 
 #Like the plugin? The Developer is Broke and Hungry
+
+Engrish is not my first language - you are not required to donate stuff, this is only for those
+who have excess of resources
+
 [Any amount is appreciated.](https://paypal.me/chrispascual/)
 Money goes to noodle funds <3 
 
