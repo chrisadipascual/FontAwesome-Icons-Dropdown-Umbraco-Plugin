@@ -16,5 +16,3 @@ Money goes to noodle funds <3
 
 
 [Noodles for Daaays](https://paypal.me/chrispascual/10)
-
-![Instant Ramen Saves Lives](https://mytindahan.net/wp-content/uploads/2018/05/Lucky-Me-Instant-Noodles-Beef-Flavor-55g.jpg)
