@@ -7,12 +7,12 @@ Instructions :
 
 2) Add "Font Awesome Icons" property to your document type.
 
-Umb 7 Code Sample :
+### Umb 7 Code Sample :
 ```
 <i class="fa @Model.Content.GetPropertyValue("yourAlias")"></i>
 ```
 
-Umb 8 Code Sample :
+### Umb 8 Code Sample :
 ```
 <i class="fa @Model.Value("yourAlias")"></i>
 ```
