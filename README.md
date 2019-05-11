@@ -1,7 +1,7 @@
 # FontAwesome-Icons-Dropdown-Umbraco-Plugin
 FontAwesome Icons Dropdown Datatype. Labels are unicode while the values are class name.
 
-Instructions :
+### Instructions :
 
 1) Download the package and Install it on your umbraco cms. 
 
@@ -33,7 +33,7 @@ No copyright infringement intended , if this package violates any law , please r
 
 This Project and the Developer is not connected in anyway with the Font-Awesome Team.
 
-### Shout Outs ###
+### Shout Outs
 
 5-11-19 : Thanks to Heather Floyd for reminding me to update for Umb8
 
