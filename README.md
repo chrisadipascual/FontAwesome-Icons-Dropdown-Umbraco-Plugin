@@ -16,7 +16,7 @@ Instructions :
 ```
 <i class="fa @Model.Value("yourAlias")"></i>
 ```
-Expected Output :
+### Expected Output :
 ```
 <i class="fa fa-heart" aria-hidden="true"></i>
 ```
