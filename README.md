@@ -3,7 +3,7 @@ FontAwesome Icons Dropdown Datatype. The labels display as Unicode characters, w
 
 ### Instructions :
 
-1) Install the package on your Umbraco CMS by downloading it manually or via NuGet: `dotnet add package FontAwesomeIconsDropdown`
+1) Install the package on your Umbraco CMS by downloading it manually or via NuGet: `Install-Package FontAwesomeIconsDropdown`
 2) Add the **"Font Awesome Icons"** property to your document type.
 
 ### Umbraco 7 Example :
