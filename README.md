@@ -30,10 +30,9 @@ This plugin uses Font Awesome CSS and fonts (v4.6.3).
 https://fortawesome.github.io/Font-Awesome/cheatsheet/
 
 No copyright infringement intended.  
-If this package violates any rights or you have feedback or suggestions, contact me at **chrisadi.pascual (gmail)** so I can take appropriate action.
+If this package violates any rights or you have feedback or suggestions, please raise an issue in this repo so I can take appropriate action.
 
-This project and its developer are not affiliated in any way with the Font Awesome team.
-
+**This project and its developer are not affiliated in any way with the Font Awesome team.**
 ---
 
 ### Acknowledgements
