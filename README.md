@@ -1,56 +1,53 @@
 # FontAwesome-Icons-Dropdown-Umbraco-Plugin
-FontAwesome Icons Dropdown Datatype. Labels are unicode while the values are class name.
+FontAwesome Icons Dropdown Datatype. The labels display as Unicode characters, while the values store the class names.
 
 ### Instructions :
 
-1) Download the package and Install it on your umbraco cms. 
+1) Install the package on your Umbraco CMS by downloading it manually or via NuGet: `dotnet add package FontAwesomeIconsDropdown`
+2) Add the **"Font Awesome Icons"** property to your document type.
 
-2) Add "Font Awesome Icons" property to your document type.
-
-### Umb 7 Code Sample :
-```
+### Umbraco 7 Example :
+```csharp
 <i class="fa @Model.Content.GetPropertyValue("yourAlias")"></i>
 ```
 
-### Umb 8 Code Sample :
-```
+### Umbraco 8 Example :
+```csharp
 <i class="fa @Model.Value("yourAlias")"></i>
 ```
+
 ### Expected Output :
-```
+```html
 <i class="fa fa-heart" aria-hidden="true"></i>
 ```
- *Assuming you selected the heart icon on the cms
+*Example uses the heart icon.*
 
-Notes :
+---
 
-This plugin uses font-awesome css and fonts (v4.6.3).
+**Notes :**
 
+This plugin uses Font Awesome CSS and fonts (v4.6.3).  
 https://fortawesome.github.io/Font-Awesome/cheatsheet/
 
+No copyright infringement intended.  
+If this package violates any rights or you have feedback or suggestions, contact me at **chrisadi.pascual (gmail)** so I can take appropriate action.
 
-No copyright infringement intended , if this package violates any law , please reach me at : chrisadi.pascual (gmail) to take anything offline (or if you have any feedback or suggestions).
+This project and its developer are not affiliated in any way with the Font Awesome team.
 
-This Project and the Developer is not connected in anyway with the Font-Awesome Team.
+---
 
-### Shout Outs
+### Acknowledgements
 
-5-11-19 : Thanks to Heather Floyd for reminding me to update for Umb8
+- **5-11-19:** Thanks to *Heather F.* for reminding me to update for Umbraco 8.  
+- **9-5-18:** Thanks to *Mike B.* for the generous donation—it really helps!  
+- **10-17-16:** Special thanks to *Bjarne F.* for correcting the Razor sample.
 
-9-5-18 : Thanks to Mike for the generous donation! It helps a lot!
-
-10-17-16 :  Special thanks to Bjarne Fyrstenborg for correcting the razor sample.
+---
 
 ### Like the plugin?
 
-Engrish is not my first language - you are not required to donate stuff, this is for those
-who can afford to help. Your kind messages also boosts my morale!
+English isn’t my first language. You don’t have to donate—this is only for those who want to help support development.  
+Your kind messages also keep me motivated!
 
-[Any amount is appreciated.](https://paypal.me/chrispascual/)
-Money goes to noodle funds <3 
-
-[A String of Noodle (Any noodle is good noodle)](https://paypal.me/chrispascual/1)
-
-[Noodles with Soup](https://paypal.me/chrispascual/5)
-
-[Lots of Noodles](https://paypal.me/chrispascual/10)
+[Support the project on PayPal](https://paypal.me/chrispascual?currency_code=USD) — any amount is appreciated.  
+All donations go toward development (and noodles ❤️).
